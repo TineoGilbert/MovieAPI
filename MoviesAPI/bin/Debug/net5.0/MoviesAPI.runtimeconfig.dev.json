@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tineo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tineo\\.nuget\\packages"
+    ]
+  }
+}
